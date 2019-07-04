@@ -1,7 +1,7 @@
 luigi_pipeline
 ==============================
 
-sample pipeline on how luigi can be used as ml pipeline
+Sample ML pipeline based on Luigi
 
 Project Organization
 ------------
